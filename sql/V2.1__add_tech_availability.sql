@@ -1,0 +1,1 @@
+ALTER TABLE tecnicos ADD COLUMN disponible BOOLEAN DEFAULT TRUE;
