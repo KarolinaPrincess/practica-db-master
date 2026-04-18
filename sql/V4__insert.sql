@@ -1,4 +1,4 @@
--- Inserciones.
+-- Inserciones de tablas.
 
 -- Inserción de 5 pizarras.
 INSERT INTO pizarras (ubicacion, estado) VALUES
