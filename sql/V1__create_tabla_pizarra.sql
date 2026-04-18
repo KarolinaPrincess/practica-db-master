@@ -7,3 +7,5 @@ CREATE TABLE pizarras (
     CHECK (estado IN ('Operativa', 'En Reparación', 'Fuera de Servicio'))
 );
 
+
+-- Hola
